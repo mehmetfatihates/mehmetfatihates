@@ -11,7 +11,7 @@ Contribute more to Open Source projects
 ### Connect with me:
 
 [<img align="left" alt="mehmetfatihates.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<img <a href="mailto:mehmetfatihatess@gmail.com">Mail Gönder</a> align="left" alt="MFA | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+[<img <a href="mailto:mehmetfatihatess@gmail.com">Mail Gönder</a> align="left" alt="MFA | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
 
 <br />
 
