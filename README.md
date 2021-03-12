@@ -35,8 +35,6 @@ Contribute more to Open Source projects
 ### 📕 Latest Blog Posts
 	
 	-Coming Soon
-
-
 ---
 
 [website]: https://mehmetfatihates.com
