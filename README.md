@@ -1,4 +1,4 @@
-### Hi there, I'm Mehmet Fatih Ateş - MFA 👋
+### Hi there, I'm Mehmet Fatih Ates - MFA 👋
 
 ## Junior Python Developer
 
