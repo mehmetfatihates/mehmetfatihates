@@ -32,11 +32,7 @@ Contribute more to Open Source projects
 <br />
 <br />
 
-### 📕 Latest Blog Posts
-	
-	-Coming Soon
----
 
-[website]: https://mehmetfatihates.com
+[website]: https://mehmetfatihates.com.tr
 [steam]: https://steamcommunity.com/id/qweasdxD/
 
